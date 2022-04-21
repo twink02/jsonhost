@@ -1,0 +1,428 @@
+// 20220421165012
+// https://jsonkeeper.com/b/1XHE
+
+{
+  "status": true,
+  "data": {
+    "spotlight": {
+      "top_videos": [
+        {
+          "story_id": "1",
+          "updated_on": "2022-04-07 13:11:30",
+          "title": "LIVE NOW: Republic World App - Light On Your Phone; Heavy On The News!",
+          "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+          "category_name": "Bussiness",
+          "complete_slug": "11204_technology-news_apps_live-now-republic-world-app-light-on-your-phone-heavy-on-the-news",
+          "keywords": "Breaking News,Latest News,Republic World,Republic World Application,Republic World App now live,Arnab Goswami",
+          "image_alt_text": "abc"
+        },
+        {
+          "story_id": "12",
+          "updated_on": "2022-04-20 21:42:07",
+          "title": "Video structure for newly added page",
+          "category_name": "Bussiness",
+          "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+          "complete_slug": "http://localhost:88/iplx/video-structure-for-newly-added-page",
+          "keywords": "Video structure for newly added page",
+          "image_alt_text": ""
+        },
+        {
+          "story_id": "13",
+          "updated_on": "2022-04-21 13:42:01",
+          "title": "India-news",
+          "category_name": "Bussiness",
+          "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+          "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+          "keywords": "India-news",
+          "image_alt_text": ""
+        },
+        {
+          "story_id": "14",
+          "updated_on": "2022-04-21 13:46:38",
+          "title": "russia-ukraine-crisis",
+          "category_name": "Bussiness",
+          "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+          "complete_slug": "https://dev-editors.mynationvoice.com/russia-ukraine-crisis/russia-ukraine-crisis",
+          "keywords": "Russa-ukraine-crisis",
+          "image_alt_text": ""
+        },
+        {
+          "story_id": "15",
+          "updated_on": "2022-04-21 13:50:42",
+          "title": "India-news",
+          "category_name": "Bussiness",
+          "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+          "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+          "keywords": "50 trapped in coal mine",
+          "image_alt_text": ""
+        },
+        {
+          "story_id": "16",
+          "updated_on": "2022-04-21 13:53:32",
+          "title": "India-news",
+          "category_name": "Bussiness",
+          "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+          "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+          "keywords": "Shop Owner Ganesh Gupta community targeted",
+          "image_alt_text": ""
+        },
+        {
+          "story_id": "17",
+          "updated_on": "2022-04-21 14:03:00",
+          "category_name": "Bussiness",
+          "title": "'Jersey' Movie Review: Shahid Kapoor-starrer Will Make You Laugh, Cry And Cheer throughout",
+          "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+          "complete_slug": "https://dev-editors.mynationvoice.com/entertainment/jersey-movie-review-shahid-kapoor-starrer-will-make-you-laugh-cry-and-cheer-throughout",
+          "keywords": "Shahid Kapoor-starrer Will Make You Laugh, Cry And Cheer throughout",
+          "image_alt_text": ""
+        },
+        {
+          "story_id": "18",
+          "updated_on": "2022-04-21 13:58:01",
+          "title": "Business-news",
+          "category_name": "Bussiness",
+          "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+          "complete_slug": "https://dev-editors.mynationvoice.com/business-news/business-news",
+          "keywords": "business news",
+          "image_alt_text": ""
+        },
+        {
+          "story_id": "19",
+          "updated_on": "2022-04-21 13:59:33",
+          "title": "India news",
+          "category_name": "Bussiness",
+          "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+          "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+          "keywords": "Cong Delegation Blocked",
+          "image_alt_text": ""
+        },
+        {
+          "story_id": "20",
+          "updated_on": "2022-04-21 14:22:32",
+          "title": "options ",
+          "category_name": "Bussiness",
+          "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+          "complete_slug": "https://dev-editors.mynationvoice.com/opinions/options-",
+          "keywords": "PAN India cbi raid underway",
+          "image_alt_text": ""
+        }
+      ],
+      "playlist": [
+        {
+          "title": "Sports Playlist",
+          "complete_slug": "videos/sports",
+          "stories": [
+            {
+              "story_id": "1",
+              "updated_on": "2022-04-07 13:11:30",
+              "title": "LIVE NOW: Republic World App - Light On Your Phone; Heavy On The News!",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "category_name": "Bussiness",
+              "complete_slug": "11204_technology-news_apps_live-now-republic-world-app-light-on-your-phone-heavy-on-the-news",
+              "keywords": "Breaking News,Latest News,Republic World,Republic World Application,Republic World App now live,Arnab Goswami",
+              "image_alt_text": "abc"
+            },
+            {
+              "story_id": "12",
+              "updated_on": "2022-04-20 21:42:07",
+              "title": "Video structure for newly added page",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "http://localhost:88/iplx/video-structure-for-newly-added-page",
+              "keywords": "Video structure for newly added page",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "13",
+              "updated_on": "2022-04-21 13:42:01",
+              "title": "India-news",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+              "keywords": "India-news",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "14",
+              "updated_on": "2022-04-21 13:46:38",
+              "title": "russia-ukraine-crisis",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/russia-ukraine-crisis/russia-ukraine-crisis",
+              "keywords": "Russa-ukraine-crisis",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "15",
+              "updated_on": "2022-04-21 13:50:42",
+              "title": "India-news",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+              "keywords": "50 trapped in coal mine",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "16",
+              "updated_on": "2022-04-21 13:53:32",
+              "title": "India-news",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+              "keywords": "Shop Owner Ganesh Gupta community targeted",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "17",
+              "updated_on": "2022-04-21 14:03:00",
+              "category_name": "Bussiness",
+              "title": "'Jersey' Movie Review: Shahid Kapoor-starrer Will Make You Laugh, Cry And Cheer throughout",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/entertainment/jersey-movie-review-shahid-kapoor-starrer-will-make-you-laugh-cry-and-cheer-throughout",
+              "keywords": "Shahid Kapoor-starrer Will Make You Laugh, Cry And Cheer throughout",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "18",
+              "updated_on": "2022-04-21 13:58:01",
+              "title": "Business-news",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/business-news/business-news",
+              "keywords": "business news",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "19",
+              "updated_on": "2022-04-21 13:59:33",
+              "title": "India news",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+              "keywords": "Cong Delegation Blocked",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "20",
+              "updated_on": "2022-04-21 14:22:32",
+              "title": "options ",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/opinions/options-",
+              "keywords": "PAN India cbi raid underway",
+              "image_alt_text": ""
+            }
+          ]
+        },
+        {
+          "title": "Football Playlist",
+          "complete_slug": "videos/sports",
+          "stories": [
+            {
+              "story_id": "1",
+              "updated_on": "2022-04-07 13:11:30",
+              "title": "LIVE NOW: Republic World App - Light On Your Phone; Heavy On The News!",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "category_name": "Bussiness",
+              "complete_slug": "11204_technology-news_apps_live-now-republic-world-app-light-on-your-phone-heavy-on-the-news",
+              "keywords": "Breaking News,Latest News,Republic World,Republic World Application,Republic World App now live,Arnab Goswami",
+              "image_alt_text": "abc"
+            },
+            {
+              "story_id": "12",
+              "updated_on": "2022-04-20 21:42:07",
+              "title": "Video structure for newly added page",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "http://localhost:88/iplx/video-structure-for-newly-added-page",
+              "keywords": "Video structure for newly added page",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "13",
+              "updated_on": "2022-04-21 13:42:01",
+              "title": "India-news",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+              "keywords": "India-news",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "14",
+              "updated_on": "2022-04-21 13:46:38",
+              "title": "russia-ukraine-crisis",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/russia-ukraine-crisis/russia-ukraine-crisis",
+              "keywords": "Russa-ukraine-crisis",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "15",
+              "updated_on": "2022-04-21 13:50:42",
+              "title": "India-news",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+              "keywords": "50 trapped in coal mine",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "16",
+              "updated_on": "2022-04-21 13:53:32",
+              "title": "India-news",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+              "keywords": "Shop Owner Ganesh Gupta community targeted",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "17",
+              "updated_on": "2022-04-21 14:03:00",
+              "category_name": "Bussiness",
+              "title": "'Jersey' Movie Review: Shahid Kapoor-starrer Will Make You Laugh, Cry And Cheer throughout",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/entertainment/jersey-movie-review-shahid-kapoor-starrer-will-make-you-laugh-cry-and-cheer-throughout",
+              "keywords": "Shahid Kapoor-starrer Will Make You Laugh, Cry And Cheer throughout",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "18",
+              "updated_on": "2022-04-21 13:58:01",
+              "title": "Business-news",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/business-news/business-news",
+              "keywords": "business news",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "19",
+              "updated_on": "2022-04-21 13:59:33",
+              "title": "India news",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+              "keywords": "Cong Delegation Blocked",
+              "image_alt_text": ""
+            },
+            {
+              "story_id": "20",
+              "updated_on": "2022-04-21 14:22:32",
+              "title": "options ",
+              "category_name": "Bussiness",
+              "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+              "complete_slug": "https://dev-editors.mynationvoice.com/opinions/options-",
+              "keywords": "PAN India cbi raid underway",
+              "image_alt_text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "all_videos": [
+      {
+        "story_id": "1",
+        "updated_on": "2022-04-07 13:11:30",
+        "title": "LIVE NOW: Republic World App - Light On Your Phone; Heavy On The News!",
+        "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+        "category_name": "Bussiness",
+        "complete_slug": "11204_technology-news_apps_live-now-republic-world-app-light-on-your-phone-heavy-on-the-news",
+        "keywords": "Breaking News,Latest News,Republic World,Republic World Application,Republic World App now live,Arnab Goswami",
+        "image_alt_text": "abc"
+      },
+      {
+        "story_id": "12",
+        "updated_on": "2022-04-20 21:42:07",
+        "title": "Video structure for newly added page",
+        "category_name": "Bussiness",
+        "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+        "complete_slug": "http://localhost:88/iplx/video-structure-for-newly-added-page",
+        "keywords": "Video structure for newly added page",
+        "image_alt_text": ""
+      },
+      {
+        "story_id": "13",
+        "updated_on": "2022-04-21 13:42:01",
+        "title": "India-news",
+        "category_name": "Bussiness",
+        "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+        "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+        "keywords": "India-news",
+        "image_alt_text": ""
+      },
+      {
+        "story_id": "14",
+        "updated_on": "2022-04-21 13:46:38",
+        "title": "russia-ukraine-crisis",
+        "category_name": "Bussiness",
+        "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+        "complete_slug": "https://dev-editors.mynationvoice.com/russia-ukraine-crisis/russia-ukraine-crisis",
+        "keywords": "Russa-ukraine-crisis",
+        "image_alt_text": ""
+      },
+      {
+        "story_id": "15",
+        "updated_on": "2022-04-21 13:50:42",
+        "title": "India-news",
+        "category_name": "Bussiness",
+        "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+        "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+        "keywords": "50 trapped in coal mine",
+        "image_alt_text": ""
+      },
+      {
+        "story_id": "16",
+        "updated_on": "2022-04-21 13:53:32",
+        "title": "India-news",
+        "category_name": "Bussiness",
+        "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+        "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+        "keywords": "Shop Owner Ganesh Gupta community targeted",
+        "image_alt_text": ""
+      },
+      {
+        "story_id": "17",
+        "updated_on": "2022-04-21 14:03:00",
+        "category_name": "Bussiness",
+        "title": "'Jersey' Movie Review: Shahid Kapoor-starrer Will Make You Laugh, Cry And Cheer throughout",
+        "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+        "complete_slug": "https://dev-editors.mynationvoice.com/entertainment/jersey-movie-review-shahid-kapoor-starrer-will-make-you-laugh-cry-and-cheer-throughout",
+        "keywords": "Shahid Kapoor-starrer Will Make You Laugh, Cry And Cheer throughout",
+        "image_alt_text": ""
+      },
+      {
+        "story_id": "18",
+        "updated_on": "2022-04-21 13:58:01",
+        "title": "Business-news",
+        "category_name": "Bussiness",
+        "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+        "complete_slug": "https://dev-editors.mynationvoice.com/business-news/business-news",
+        "keywords": "business news",
+        "image_alt_text": ""
+      },
+      {
+        "story_id": "19",
+        "updated_on": "2022-04-21 13:59:33",
+        "title": "India news",
+        "category_name": "Bussiness",
+        "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+        "complete_slug": "https://dev-editors.mynationvoice.com/india-news/india-news",
+        "keywords": "Cong Delegation Blocked",
+        "image_alt_text": ""
+      },
+      {
+        "story_id": "20",
+        "updated_on": "2022-04-21 14:22:32",
+        "title": "options ",
+        "category_name": "Bussiness",
+        "promo_large": "https://img.republicworld.com/republic-prod/stories/promolarge/ldpi/ivbaxenuseofsu9w_1643444690.jpeg",
+        "complete_slug": "https://dev-editors.mynationvoice.com/opinions/options-",
+        "keywords": "PAN India cbi raid underway",
+        "image_alt_text": ""
+      }
+    ]
+  }
+}
